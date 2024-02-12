@@ -1,0 +1,11 @@
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.deps.json
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.dll
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\bin\Debug\net7.0\TecNM.Practica2.Core.pdb
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.AssemblyInfoInputs.cache
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.AssemblyInfo.cs
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.csproj.CoreCompileInputs.cache
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.dll
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\refint\TecNM.Practica2.Core.dll
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\TecNM.Practica2.Core.pdb
+C:\Users\sixst\Documentos\repos\Proyectos .NET\TECNM.PRACTICA2\TecNM.Practica2.Core\obj\Debug\net7.0\ref\TecNM.Practica2.Core.dll
